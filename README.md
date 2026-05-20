@@ -35,7 +35,7 @@ Much of my work is currently in private repos, but I'm working to release a suit
 ## 💻 What I use
 </summary>
 
-![C++](https://img.shields.io/badge/C++-A8B9CC?) is by far my favorite language, but I enjoy ![C#](https://img.shields.io/badge/C_Sharp-91458d) as well! <br>
+![C++](https://img.shields.io/badge/C++-0085d4?) is by far my favorite language, but I enjoy ![C#](https://img.shields.io/badge/C_Sharp-91458d) as well! <br>
 I've also dabbled a bit in ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFFFF) & ![Typescript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=FFFFFF) ![Typescript](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=FFFFFF).
 
 For engines, I work with ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?logo=unrealengine&logoColor=FFFFFF), ![Unity](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=FFFFFF), and custom C++ solutions. <br>
