@@ -64,7 +64,7 @@ I'm also trying to get more acquainted with [![Vue](https://img.shields.io/badge
 
 **I'm always open for contacting!** <br>
 Whether you have any questions, need some consulting, or just want to chat about games, feel free to drop me a message.
-You can reach me by e-mail, or by filling the form on my website.
+You can reach me by e-mail, or by filling the form on my [website](https://joeyphoier.com).
 
 </details>
 
